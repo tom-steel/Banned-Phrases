@@ -1,6 +1,6 @@
 # The dictionary
 
-[A](/aircrew/a) | 
+[A](aircrew/a) | 
 
 ## About 
 ### How The Dictionary Came To Be
