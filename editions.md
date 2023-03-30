@@ -14,7 +14,7 @@ I am displeased to bring you edition VI of the dictionary. New phrases are still
 
 Enjoy edition VI and have a very Happy New Year.
 
-### New Additions to Edition 6:**
+### New Additions to Edition 6
 
 SOUP, Civvy, Civvy street, Scorchio, Pluck out of one's arse, Performing a CSAS bite, Dropping a paveway 6, Her Majesty's flying club, Bar/Beer O Clock, Ascoteer, Shed bus, Essential bus, H Hour, Climb up and level at 2ft 6, Smash it in, Won't go down and slow down, Hold off, Gats & blats, Peashooter, Minutes few, Jack up, IFU3, VPSI, Maggots, Combat slipper, Combat pyjamas, Crunch, Wedge, Zip in a spine, Get some hair on your arse, Crump, Mincing, No Duff, Surge, Rim no damage, Egyptian PT, RTFQ, Cranium, Skulling, Cranium aspect, Container, Laying on of hands, Master recycle, Canap’Š, Sparrows, Whishile, Rjig/rejigged, Regal Fleigal, BFOT, Graze the base height, Spoon through base height, POOMA, George, Coming down the hill, FACIT, Split team, Blower, RHIP, Lid, Gotcha, Government health warning, Trap, Deferred success, Off spec, Chucks & Ducks, OC Feds, Any spears for me? F1 (something), The office, Spears on the outside, Combat egg, Floating around in the ether, At the lastminute.com, SJ, Honest joe, A gallop through, Bullshit flags, Offline, Wristwatch, Have a sidebar, Lima Charlie, Magners Magners, RFI's, Dealing out the cards, Big metal tubes, Slammers, Fandango, Plinking, Thing of beauty, Depressurisation, Suited and booted, LI’s, Hot poop, Shoot and scoot, Military TV Channel, Dommers / Doms chit, Gentlemen's, Gentlemen's speed, Gentlemen's height, Fang snatcher, Eye snatcher, (Something) fires (Something) stops, Snap vector to (Something or Somewhere), Burning holes in the sky, Bold underlined, Above my pay grade, Schlep, Tin hat, Exit via the sunroof, Splash and dash, Game face, Left or right of arc, Crock of hoop/shit, Goolie chit, Bear shoulders, Pussy rock, Long screwdriver, Worth fighting for not worth dying for, Point and shoot, That’s what chins are for, LP cock pressure only, VFR Direct, FJC, Punk off, SLJs, Handrail, Actual, Simulated, Combat kip, Get into groove, File bravo one November, Check the actual, Doing a Mexican hat, Uninvited ordinance
 
@@ -48,7 +48,7 @@ When will it ever end? Enjoy edition IV.
 
 ***
 
-## Preface to Edition 3 (February 2005)</summary>
+## Preface to Edition 3 (February 2005)
 
 At last we are having an effect! Only 60 new phrases for this new edition as opposed to 70, and over a longer time period. Of course this could be because of the Christmas break.
 
