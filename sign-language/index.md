@@ -4,6 +4,8 @@
 
 ## Bang out
 
+![Clench both fists together as if grasping an ejection handle, place in between the legs and “pull” upwards in line with the abdomen.](bang.gif)
+
 ### Definition: 
 To remove oneself from a locale
 
@@ -19,16 +21,21 @@ Clench both fists together as if grasping an ejection handle, place in between t
 
 ## Basics
 
+![Hold both hands out flat with one perpendicular to the other but still in the same plane; slap the back of the hand closest to you into the palm of the one furthest away.](basics.gif)
+
 ### Definition: 
 Something elementary has been forgotten or neglected. Often used as a reprimand.
 
 ### Action: 
 Hold both hands out flat with one perpendicular to the other but still in the same plane; slap the back of the hand closest to you into the palm of the one furthest away.
-Related definitions:
+
+###Related definitions:
 
     Schoolboy (error)
 
 ## Bread and butter
+
+![Hold one hand flat and place the other perpendicular in the other plane like a knife; move the top hand up the fingers and down the wrist of the open palm.](bread.gif)
 
 ### Definition: 
 Term used to describe actions that are used so often that they are often considered the basic principles of the subject under discussion.
@@ -44,6 +51,9 @@ Hold one hand flat and place the other perpendicular in the other plane like a k
 
 
 ## Bzzz
+
+![Clench a fist and then extend thumb and forefinger; move hand forward as if pressing an imaginary button.
+](bzz.gif)
 
 ### Definition: 
 Used to signal disinterest or irrelevance of the current topic of discussion.
