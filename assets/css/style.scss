@@ -6,6 +6,9 @@
 .page-header {
   color: #fff;
   text-align: center;
-  background-color: #fff;
-  background-image: linear-gradient(120deg, #23ADDD, #fff);
+  background-color: #23ADDD;
+  opacity: 1;
+  background-image:  linear-gradient(30deg, #000 12%, transparent 12.5%, transparent 87%, #000 87.5%, #000), linear-gradient(150deg, #000 12%, transparent 12.5%, transparent 87%, #000 87.5%, #000), linear-gradient(30deg, #000 12%, transparent 12.5%, transparent 87%, #000 87.5%, #000), linear-gradient(150deg, #000 12%, transparent 12.5%, transparent 87%, #000 87.5%, #000), linear-gradient(60deg, #00077 25%, transparent 25.5%, transparent 75%, #00077 75%, #00077), linear-gradient(60deg, #00077 25%, transparent 25.5%, transparent 75%, #00077 75%, #00077);
+  background-size: 20px 35px;
+  background-position: 0 0, 0 0, 10px 18px, 10px 18px, 0 0, 10px 18px;
   }
