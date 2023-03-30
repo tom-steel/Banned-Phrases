@@ -1,6 +1,3 @@
-# Banned Phrases
-**The Aircrew Dictionary (of unacceptable cliche and overused phrases)**
-
 ## About 
 ### How The Dictionary Came To Be
 
