@@ -3,6 +3,7 @@
 Home : [A](aircrew/a) B C D E F G H I J K L M N O P Q R S T U V W X Y Z : [Editions](/foreword/) : [Extras](/extras/)
 
 ## About 
+![The Banned Phrases logo of flying wins badge with BP in the centre](banned-phrases-logo.png)
 ### How The Dictionary Came To Be
 
 It all started in the summer of 2001, when I first met a young course mate at Linton-on-Ouse, whose name will remain anonymous. For the purposes of this introduction I shall call him Persil MacKenzie.
