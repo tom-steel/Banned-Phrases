@@ -46,6 +46,12 @@
 ## Bernouillis
 (n.) Term used by the uneducated to describe the origin of lift. Sky hooks, Lift fairies
 
+## Big ignore (the)
+(n.) A fictional item given by someone to indicate that the have disregarded some form of communication. Eg: “I gave that email ~.”
+
+## Biggest alligator
+(n.) The most prominent threat.
+
 ## Billy
 (adj.) An amplifier of any word beginning with the letter b. Eg: ~ bonus, ~bollocks, ~big steps. Exception ~no mates.
 
@@ -55,8 +61,20 @@
 ## Bitch
 (n.) A designated slave performing a particular function. Eg: tea and coffee ~.
 
+## Bitching Betty
+(n.) The synthetic woman’s voice in terrain avoidance software that instructs a pilot to perform actions to avoid collision. _Nagging Nora_
+
 ## Bite the bullet
 (v.) To wholeheartedly accept the consequences of the current situation.
+
+## Black art
+(n.) Words used to explain anything that the speaker does not understand.
+
+Related definitions:
+
+- Science occurs
+- Smoke and mirrors
+- White man's magic
 
 ## Black…
 (v.) To destroy or render useless for a non specific period of time. Eg: I ~ed the toilet. Cat 5
@@ -94,11 +112,29 @@
 ## Bold underlined*
 (adj.) Very important.
 
+## Bona Jet
+(n.) A harrier aircraft. Plastic pig, Wozzle jet, Flying tea trolley
+
+Related definitions:
+
+- Flying tea trolley
+- Plastic pig
+- Wozzle jet
+
 ## Bong
 (v.) To infringe a safety margin, restriction, or pass below a cleared level. Eg: You are in trouble because you ~ed controlled airspace.
 
+## Book of words
+(n.) A book or manual of instruction, such as, for example, Pilots’ Notes/any official publication. cf. Good book
+
+## Boot (the)
+(n.) The rear cockpit of a tandem aircraft.
+
 ## Bottom line
 (n.) After everything else has been taken into consideration this is the most important fact. Usually used to describe at least 5 different facts. At the end of the day cf. NB
+
+## Boy (the)
+(n.) The most acclaimed person in a group at a particular moment in time. _On fire_
 
 ## Brain fart
 (n.) 1. When one is incapable of giving the correct answer to a problem 2. A completely inappropriate comment, reply or action. cf. Coggie
@@ -126,6 +162,9 @@
 
 ## Bumboozle
 (v.) To confuse the audience usually with over complicated unnecessary facts and figures.
+
+## Bunched
+(adj.) Tense or concerned about something. Eg. “there’s nothing to worry about so don’t get~”
 
 ## Burning holes in the sky*
 (v.) Flying in the same piece of airspace for a long period of time.
