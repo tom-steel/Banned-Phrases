@@ -1,5 +1,3 @@
-[Home](/) : [A](/aircrew/a) B C D E F G H I J K L M N O P Q R S T U V W X Y Z : [Editions](/foreword/) : [Extras](/extras/)
-
 # Banned Phrases X-Abbreviations
 
 A lazy practice has hit the air force: at first in writing, but now it is starting to spread into speech, making it sound even more ridiculous than when you read it. The phenomenon is X-Abbreviations. It started with the shortening of words and adding an x at the end to show that it was a shortened term. This was probably done to aid speed of writing these words in some operational context such as on a tote board or on a target map for example. The phenomenon developed and started to be used in everyday correspondence and reports and more and more words were contracted using this method.
