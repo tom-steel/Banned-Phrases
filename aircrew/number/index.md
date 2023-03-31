@@ -1,4 +1,4 @@
-# Banned Phrases - numbers
+# Banned Phrases - Numbers
 
 ## 180-by-zip
 (adj.) Head-to-head. Beak to beak, Snot locker
