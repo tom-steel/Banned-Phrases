@@ -16,6 +16,9 @@
 ## Fag chariot
 (n.) A Tornado F3 aircraft. cf. Charioteer
 
+## Fairy
+(n.) RAF Avionics Technician Dog-Fucker
+
 ## Fall off
 (v.) To be cancelled. Canned, Scrubbed cf. Slip to the right
 
@@ -61,7 +64,7 @@
 ## Fill your boots
 (phr.) Feel free to expend as much effort as you like partaking in the activity we have been discussing. cf. Crack on
 
-## Fin ‘F’
+## Fin ‘F’ (the)
 (adj.) Tornado specific – a declaration that one is full, usually of beer. A reference to the indicator light in the cockpit when the fin fuel tank is fuelled to capacity.
 
 ## Finals to
@@ -97,6 +100,9 @@
 ## Flare/Chaff it off
 (v.) To get rid of something, particularly an onerous task. Eg: He asked me to check all last years stats but i managed to ~ Chin off, Gaff off
 
+## Flash the Pu
+(Order) Start the APU. Eg.” Crewman ¬ and we’ll get going.”
+
 ## Flash to bang time
 (n.) The amount of time between the instigation of an action and its consequences, esp. relating to bad news, and ensuing anger.
 
@@ -113,6 +119,14 @@
 
 ## Flick spin die/depart
 (v.) A quick sucession of catastropic events leading to death or serious injury.
+
+## Flight level Moon
+(n.) Very high indeed. Flight level Nose bleed
+
+Related definitions:
+
+- Flight Level Nosebleed
+
 
 ## Flight level nosebleed
 (n.) A very high altitude.
@@ -168,6 +182,13 @@
 ## Frat
 (v.) To kill your friend in air combat.
 
+## Frau (the)
+(n. ) One’s wife or partner. CinC home command, Dragon ops, M.R.S, Red Air, Long haired air marshall
+
+Related definitions:
+
+- M.R.S. (the)
+
 ## Frig
 (v.) To adjust something instinctively to make it work in reality. Ackle, Fettle, Fudge
 
@@ -197,6 +218,13 @@
 
 ## Fuck this for a game of soldiers
 (stat.) I am no longer prepared to devote any attention to the current activity because I have lost interest or disapprove of it.
+
+## Fuck-Arsing
+(v.) Wasting time. Faffing.
+
+Related definitions:
+
+- Flapping
 
 ## Fudge
 (v.) To adjust something instinctively to make it work in reality. Ackle, Fettle, Frig
