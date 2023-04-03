@@ -10,7 +10,8 @@
 (acron.) Fuck about call it training.
 
 ## Faff
-(n. v.) 1. n. Unnecessary and possibly distracting things. 2. v. Waste time on activities not pertinent to the task in hand.
+1. (n.) Unnecessary and possibly distracting things. 
+2. (v.) Waste time on activities not pertinent to the task in hand.
 
 ## Fag chariot
 (n.) A Tornado F3 aircraft. cf. Charioteer
