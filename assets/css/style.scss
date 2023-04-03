@@ -13,6 +13,7 @@
 @media screen and (min-width: 64em) {
  .main-content {
   max-width:66rem;
+  padding: 1rem 6rem;
  }
  }
 
@@ -22,4 +23,12 @@
 
 .site-footer-owner {
   display: none;
+}
+
+.main-content p {
+  margin-bottom: 1em;
+  font-size: 20px;
+  border-bottom: 2px #002856 solid;
+  padding-bottom: .5em;
+  text-align: center;
 }
