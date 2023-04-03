@@ -2,7 +2,7 @@
 
 [The Four Types of User](/foreword/the-4-types-of-user/)
 
-[Foreword to editions](/foreword/)
+[Release notes for editions](/foreword/)
 
 [The Generic Military Nicknaming Procedure](/extras/nicknaming-procedure/)
 
