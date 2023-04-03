@@ -15,6 +15,13 @@
   max-width:66rem;
   padding: 1rem 6rem;
  }
+ .nav {
+  margin-bottom: 1em;
+  font-size: 20px;
+  border-bottom: 2px #002856 solid;
+  padding-bottom: .5em;
+  text-align: center;
+ } 
  }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
@@ -25,10 +32,4 @@
   display: none;
 }
 
-.nav {
-  margin-bottom: 1em;
-  font-size: 20px;
-  border-bottom: 2px #002856 solid;
-  padding-bottom: .5em;
-  text-align: center;
-}
+
