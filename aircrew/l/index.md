@@ -1,5 +1,14 @@
 # Banned Phrases - L
 
+## Laughing boy
+
+(n.) Slightly comedic expression for any person standing close by during the telling of a story or description of a situation. cf. Muggins
+
+Related definitions:
+
+- Me & thee
+- Muggins
+
 ## Lead turn
 (v.) Anticipate or get ahead of something to gain advantage. Get ahead of the game
 
