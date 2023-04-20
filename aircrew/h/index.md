@@ -140,6 +140,17 @@ Related definitions:
 ## HOTASery
 (unknown) A very specialised part  fictional educational subject created to express the familiarity with the sequence of switches that need to be made to allow the desired action to occur. HOTASery is only associated with those switches found on the throttle or stick.
 
+## Hotel whisky tango
+
+(phon.) Use of the phonetic alphabet to abbreviate the phrase ‘Happy with that’ meaning I am content with the situation. Happy With That, Happy days, Job’s a good-‘un
+
+Related definitions:
+
+- Happy avec (Ca)
+- Happy days
+- Happy with that
+- Job's a good-'un
+
 ## How do you think that went?
 (phr.) A question designed to demoralise by prompting the person being asked to admit how badly they handled the situation that has just occurred. cf. Be better
 
