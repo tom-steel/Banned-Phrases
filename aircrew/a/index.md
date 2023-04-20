@@ -98,6 +98,14 @@ Related definitions:
 
 (phr.. qn.) A question asking whether there is any impending criticism to come. Usually used at the end of a debrief.
 
+## Arb
+
+(adj) Arbitrary
+
+Related definitions:
+
+- Ronnie
+
 ## Around the bazaars
 
 (prep.) In other forums. _Round the houses_
