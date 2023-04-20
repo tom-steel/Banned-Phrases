@@ -166,7 +166,17 @@ Related definitions:
 (adj.) Incorrect. Usually used in conjunction with Gen.
 
 ## Dump down to landing weight
+
 (v.) To defecate. Reduce the boarding mass, A BITE and download, Increase the gliding range, Drop a paveway 6
+
+Related definitions:
+
+– A BITE and download
+– Dropping a paveway 6
+– Give birth to a (....)
+– Increase the gliding range
+– Pickle off
+– Reduce the boarding mass
 
 ## Durka-Durka-stan
 (n.) Anywhere in the Middle East Sandpit, Hot and sandy place
