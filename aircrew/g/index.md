@@ -263,6 +263,15 @@ Related definitions:
 ## Golden
 (adj.) To be without blame.
 
+## Go ahead
+
+(phr.) I give you my permission to start talking. From RT. cf. Send, Ready to copy
+
+Related definitions:
+
+- Say again
+- Send
+
 ## Go to it
 (inst.) Continue or commence the task that you have just been briefed about. cf. Crack on
 Related definitions:
