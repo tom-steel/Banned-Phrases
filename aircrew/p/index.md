@@ -135,6 +135,14 @@ Related definitions:
 - One Man One Fan
 - Wozzle jet
 
+## Playing the game
+
+(v.) The act of performing a set of activities to please those in charge and allow your progression to the next stage. Jumping through hoops
+
+Related definitions:
+
+- Jumping through hoops
+
 ## Plinking
 
 (v.) The act of dropping multiple bombs one after another on multiple targets. Punk off, Wang off, Hoof Off, Poop Off
