@@ -22,6 +22,10 @@ Related definitions:
 
 (Spanish Adv.) Spanish adverb used as substitute for the English word quickly or quick. Eg: “We need to do this pretty ~.” Snell
 
+Related definitions:
+
+- None
+
 ## Red air
 
 (n.) One’s wife or partner. The enemy. Dragon ops, Long haired air marshall, CinC home command, M.R.S.
@@ -46,6 +50,10 @@ Related definitions:
 ## Regalfliegel
 
 (Ger. n.) The royal flight.
+
+Related definitions:
+
+- None
 
 ## Reinvent the wheel
 
@@ -86,17 +94,33 @@ Related definitions:
 
 (pl. n. acron.) Requests for information. Questions. Said instead of the word questions even though it takes longer to say. Eg. “Has anyone got any ~”
 
+Related definitions:
+
+- None
+
 ## RHIP
 
 (acron.) Rank has it’s privileges. A term used by someone more senior that you as an excuse for preferential treatment. This does not override the “shotgun” rule.
+
+Related definitions:
+
+- None
 
 ## Rim no damage
 
 (adj.) An anal inspection. From air to air refuelling terminology.
 
+Related definitions:
+
+- None
+
 ## Ring fenced
 
 (v.) Reserved for a specific purpose, not to be used by others for other purposes.
+
+Related definitions:
+
+- None
 
 ## Rinse out
 
@@ -149,6 +173,10 @@ Related definitions:
 ## Roll into
 
 (v.) To continue seamlessly without a break into something else.
+
+Related definitions:
+
+- None
 
 ## Rolled out
 
