@@ -3,11 +3,23 @@
 ## G-Limited
 (phr.) Used when choosing a curry from a restaurant menu as an excuse not to have a particularly hot one as this may cause problems when flying under increased g-force.
 
+Related definitions:
+
+- None
+
 ## GAFA
 (acron.) Greater Arabian Fuck All – Large area of featureless desert that constitutes most of the Middle East
 
+Related definitions:
+
+- None
+
 ## Gaff
 (n.) One’s place of residence.
+
+Related definitions:
+
+- None
 
 ## Gaff off
 (v.) Ignore. Kiss off, Chin off
@@ -128,10 +140,24 @@ Related definitions:
 ## Get in my/your chilli
 (phr.) To unnecessarily interfere with somebody's plan, usually without all the information. Long Screwdriver
 
+Related definitions:
+
+- None
+
 ## Get involved
 (v.) To fully immerse oneself in the accomplishment of a task. Get stuck in
 
+Related definitions:
+
+- None
+
 ## Get on the blower to
+
+(v.) To make radio contact with. Eg: “~ Lossiemouth Approach.” Bell up
+
+Related definitions:
+
+- Bell up
 
 ## Get shit in a pile
 (n.) Something adequately organised. Squared away, Shit in one sock
@@ -227,6 +253,10 @@ Related definitions:
 ## Gimlet
 (n.) A small boring tool
 
+Related definitions:
+
+- None
+
 ## Gin Clear
 (adj.) A day of excellent visibility. cf. Ginners, Scorchio, Wide open
 
@@ -249,6 +279,10 @@ Related definitions:
 ## Give a good listening to
 (phr.) The act of being bollocked
 
+Related definitions:
+
+- None
+
 ## Give birth to a (….)
 (v.) A way of saying that one is about to defecate. One inserts the trade the they most despise at the end of the phrase. Eg: I’m off to ~ admin’er. Drop a (…) off at the pool
 
@@ -262,6 +296,10 @@ Related definitions:
 
 ## Golden
 (adj.) To be without blame.
+
+Related definitions:
+
+- None
 
 ## Go ahead
 
@@ -290,14 +328,30 @@ Related definitions:
 ## God’s G
 (n.) The normal acceleration of the earth’s gravity which can be utilised when at the top of a vertical manoeuvre during air combat. Combat egg cf. Furball
 
+Related definitions:
+
+- None
+
 ## Goldfish Bowl
 (n.) Airspace with poor horizons.
+
+Related definitions:
+
+- None
 
 ## Good book
 (n.) The source document for knowledge being imparted. Usually refers to the aircrew manual for the specific type of aircraft.
 
+Related definitions:
+
+- None
+
 ## Good Drills
 (phr.) To show ones approval of actions, often meant in a slightly patronising manor. Good Skills
+
+Related definitions:
+
+- None
 
 ## Good enough for govt work
 (phr.) Used to justify not applying any more effort to improve a less than perfect solution. There or thereabouts
@@ -350,8 +404,16 @@ Related definitions:
 ## Granularity
 (adj.) A stupidly semi-ironic intentionally comedic way of describing: detail. Eg: Let me give some ~ about that plan.
 
+Related definitions:
+
+- None
+
 ## Grating my chode
 (adv.) Something that is very annoying.
+
+Related definitions:
+
+- None
 
 ## Graze the base height
 (phr.) To fractionally infringe the rules. Spoon through base height
@@ -387,6 +449,10 @@ Related definitions:
 ## Ground happy
 (adj.) A state of mind where having spent a long time away from flying that you now fear it.
 
+Related definitions:
+
+- None
+
 ## Grow bag
 (n.) An aircrew coverall. Goonbag, Babygrow
 
@@ -397,6 +463,10 @@ Related definitions:
 
 ## Grunt
 (n.) A member of the non commissioned ranks of the RAF regiment or the army. A foot soldier. Cannon fodder
+
+Related definitions:
+
+- None
 
 ## Gucci
 (adj.) New or advanced technology. Spangly, Swept-up
