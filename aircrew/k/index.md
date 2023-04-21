@@ -10,6 +10,10 @@ Related definitions:
 ## Kin
 (adv.) Used as a substitute for the word ‘fucking’ (when used as an adverb), by people unwilling to use the word ‘very’. Used to amplify something. Eg. “It is ~ cold.” Chuffing
 
+Related definitions:
+
+- None
+
 ## Kiss off
 (v.) Ignore. Gaff off, Chin off
 
