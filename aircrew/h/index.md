@@ -10,6 +10,10 @@ Related definitions:
 ## HAIGTDT
 (acron.) How Am I Going To Do This? Ridiculously long non-spoken acronym sometimes used by idiots in briefs or planning.
 
+Related definitions:
+
+- None
+
 ## Hammer away
 (v.) To adequately organise something. Square away, Shit in a pile, Shit in one sock
 
@@ -37,6 +41,10 @@ Related definitions:
 ## Hanger queen
 (n.) An aircraft that seems to be permanently broken.
 
+Related definitions:
+
+- None
+
 ## Hanging off the tailplane
 (v.) To have reached the limit of one’s mental capacity when airborne. Waterskiing behind the aircraft cf. Maxed out
 
@@ -47,6 +55,10 @@ Related definitions:
 
 ## Hanging on the blades
 (adv.) To put an aircraft in a position where it’s performance only just exceeds the demands placed upon it by the forces gravity and drag.
+
+Related definitions:
+
+- None
 
 ## Happy avec (Ca)
 (french. stat.) I am content with the situation. Happy days, Job’s a good-‘un, Happy with that, Hotel Whiskey Tango
@@ -81,6 +93,10 @@ Related definitions:
 ## Harry ….
 (allit.) Can\’t think of one, there are so many, such as Harry Honkers (Hong Kong also the act of vomiting) Harry Crashers (fast asleep) There\’s a whole bunch of them, so, what about adding a new section, to which contributions could be made ?
 
+Related definitions:
+
+- None
+
 ## Head fire
 (adj.) Fictional description of the brain actually catching fire due to input overload describing the point at which a person reaches their maximum mental capacity. Maxed out
 
@@ -92,20 +108,44 @@ Related definitions:
 ## Head honcho
 (n.) The most senior person present. Top of the shop
 
+Related definitions:
+
+- None
+
 ## Head shed
 (n.) The senior person present. Head Honcho, Top of the shop
+
+Related definitions:
+
+- None
 
 ## Heaters
 (pl. n.) Afterburners. Carrots, Cookers
 
+Related definitions:
+
+- None
+
 ## Hip pocket
 (n.) The closest suitable diversion for an aircraft.
+
+Related definitions:
+
+- None
 
 ## Hittile
 (n.) A missile which has no proximity sensor and needs to hit you before exploding.  Used by idiots who have no idea of the Latin roots of the word ‘missile’ (mittere – to send out).
 
+Related definitions:
+
+- None
+
 ## HIV (the)
 (n.) Any illness or ailment. Pronounced as ‘hiv’ rather than individual letters.
+
+Related definitions:
+
+- None
 
 ## Hoof off
 (v.) To Release Something usually a weapon. Punk off, Plinking cf. Dunk
@@ -120,14 +160,30 @@ Related definitions:
 ## Honk
 (v.) To vomit.
 
+Related definitions:
+
+- None
+
 ## Honking
 (adv.) Very powerful in terms of velocity or energy. Usually applied to wind.
+
+Related definitions:
+
+- None
 
 ## Honking TACAN
 (n.) Navigator Backseater
 
+Related definitions:
+
+- None
+
 ## Hot and sandy lands
 (adj.) A desert theatre of operations. Sandpit
+
+Related definitions:
+
+- None
 
 ## Hot to trot
 (adj.) In a state of total preparedness. Locked and loaded, Good to go
@@ -139,6 +195,10 @@ Related definitions:
 
 ## HOTASery
 (unknown) A very specialised part  fictional educational subject created to express the familiarity with the sequence of switches that need to be made to allow the desired action to occur. HOTASery is only associated with those switches found on the throttle or stick.
+
+Related definitions:
+
+- None
 
 ## Hotel whisky tango
 
@@ -161,6 +221,13 @@ Related definitions:
 ## Hurry up and wait
 (phr.) Used to describe frustration usually with movements personnel who hurry you to place only for you to be waiting what seems to be unreasonable amounts of time when you get there for the next step or stage.
 
+Related definitions:
+
+- None
 
 ## Hydraulic palm tree
 (n.) A helicopter. Cab
+
+Related definitions:
+
+- None
