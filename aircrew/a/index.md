@@ -10,7 +10,6 @@ Related definitions:
 - Increase the gliding range
 - Pickle off
 
-
 ## A-level
 
 (adj.) Something that is difficult or complicated.
@@ -18,7 +17,6 @@ Related definitions:
 Related definitions:
 - No brainer
 - Noddy
-
 
 ## Ackle
 
@@ -39,33 +37,53 @@ Related definitions:
 - Scratcher
 - Simulated
 
-
 ## Advisory for aircrew
 
 (phr.) A phrase used to excuse the breaking of rules. A classic example of colossal arrogance.
+
+Related definitions:
+
+- None
 
 ## Agricultural
 
 (adv.) ‘Heavy handed’ flying.
 
+Related definitions:
+
+- None
+
 ## Ahead of the aircraft
 
 (adj.) Prepared to a greater extent than would be expected during flight. _Ahead of the game cf. On top of things, All over it like a (cheap) rash_
 
+Related definitions:
+
+- None
 
 ## Ahead of the game
 
 (adj.) Prepared to a greater extent than would be expected. _Ahead of the aircraft, Ahead of the drag curve cf. On top of things, All over it like a (cheap) rash_
 
+Related definitions:
+
+- None
 
 ## Air tragic
 
 (n.) The Air Traffic Control branch.
 
+Related definitions:
+
+- None
 
 ## Aircraft type mate
 
 (n.) A fellow aircrew officer, from the fleet of that particular aircraft type. Eg: Jag Mate _cf. Charioteer_
+
+Related definitions:
+
+- None
 
 ## Aircrew reset/recycle
 
@@ -84,19 +102,25 @@ Related definitions:
 
 - Wizard Prang
 
-##All over it like a (cheap) rash
+## All over it like a (cheap) rash
 
 (adj.) Competent in every way at dealing with the situation. _Ahead of the aircraft, Ahead of the drag curve, Ahead of the game, On top of things_
-
 
 ## Angels
 
 (pl. n.) Height in thousands of feet eg “Everything Angels 14 and above is yours”
 
+Related definitions:
+
+- None
 
 ## Any spears for me?
 
 (phr.. qn.) A question asking whether there is any impending criticism to come. Usually used at the end of a debrief.
+
+Related definitions:
+
+- None
 
 ## Arb
 
@@ -118,10 +142,17 @@ Related definitions:
 
 (adj.) As planned/briefed/illustrated with no change. _As advertised_
 
+Related definitions:
+
+- None
 
 ## Ascoteer
 
 (n.) A member of 2 Group.
+
+Related definitions:
+
+- None
 
 ## At the speed of a thousand gazelles
 
