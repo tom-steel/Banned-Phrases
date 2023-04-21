@@ -65,9 +65,17 @@ Related definitions:
 
 (adv.) Used to describe the production of an answer or estimate, instantly, without reference to any outside material. cf. Maths in public
 
+Related definitions:
+
+- None
+
 ## Office (the)
 
 (n.) Used by aircrew to refer to their cockpit or area of responsibility on the aircraft. Usually said to civilians when showing them around or showing a photo in a vain attempt to impress.
+
+Related definitions:
+
+- None
 
 ## Offline
 
