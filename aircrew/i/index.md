@@ -69,10 +69,18 @@ Related definitions:
 
 (n.) A boom-drogue adapter refuelling assembly. Donkey’s dick
 
+Related definitions:
+
+- None
+
 ## Irregular release
 
 1. (v.) Premature ejaculation.
 2. (v.) To unintentionally defecate after passing wind. 
+
+Related definitions:
+
+- None
 
 ## Isle Of Dreams
 
