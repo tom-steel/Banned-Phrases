@@ -97,6 +97,10 @@ Related definitions:
 
 (n.) Indeterminable abilities that allow one to perform basic pilot skills to solve a situation without reference to prior planning or discussion. Eg: “Do some ~ to get us out of here”. cf. Black art
 
+Related definitions:
+
+- None
+
 ## Pissex
 
 (v.) A long or excessive alcoholic drinking session. Lash, Shedded
@@ -283,6 +287,10 @@ Related definitions:
 ## Pull up a sand bag
 
 (inst.) Prepare yourself to be bored by my stories. cf. Spinning dits
+
+Related definitions:
+
+- None
 
 ## Punk off
 
