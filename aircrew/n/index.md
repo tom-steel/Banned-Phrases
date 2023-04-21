@@ -23,9 +23,17 @@ Related definitions:
 
 (n.) Something unpleasant that is usually boring and time consuming. Chaffe, Ball ache
 
+Related definitions:
+
+- None
+
 ## NB
 
 (phr. abbr.) Used incorrectly as a verb to impress the importance of remembering the topic being discussed. 
+
+Related definitions:
+
+- None
 
 ## Nebbsville
 
@@ -60,6 +68,10 @@ Related definitions:
 ## Negatron
 
 (int.) No. Not correct. cf. Dim
+
+Related definitions:
+
+- None
 
 ## Nibble the buffet
 
@@ -112,6 +124,10 @@ Related definitions:
 
 (Stat.) There is nothing wrong with that.
 
+Related definitions:
+
+- None
+
 ## No snags
 
 (adj) No Problems. Snagless, Dim snaggio
@@ -144,6 +160,10 @@ Related definitions:
 
 (n.) Norwegian person cf. Cloggie
 
+Related definitions:
+
+- None
+
 ## Norfolk land shark
 
 (n. ) A Tornado GR Aircraft. The fin
@@ -168,6 +188,10 @@ Related definitions:
 ##  Nosebag
 
 (n.) A particularly disgusting individual with no officer qualities, integrity or manners.
+
+Related definitions:
+
+- None
 
 ## Nozzly no mates
 
