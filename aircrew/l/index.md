@@ -64,6 +64,10 @@ Related definitions:
 1. (v.) To be unable to answer an unexpected question, put to you under pressure, instantly.
 2. (v.) To say the wrong or inappropriate thing. cf. Brain fart
 
+Related definitions:
+
+- None
+
 ## LMF
 (acron. adj.) Lack of Moral Fibre, used to describe anyone who doesn’t want to or cannot do what you are asking due to factors that you consider insignificant. cf. Man up, Wipe your minge, Zip in a spine
 
@@ -101,8 +105,16 @@ Related definitions:
 ## Low Hanging Fruit
 (phr.) Used to describe something an easily achievable and simple goal or opportunity. Easy pickings
 
+Related definitions:
+
+- None
+
 ## Low PK
 (Excl.) Low probability of kill. Often used in the context of courting the opposite sex.
+
+Related definitions:
+
+- None
 
 ## LP cock pressure only
 (phr.) Phrase used to tell all around you that you are having difficulty urinating. cf. Point and shoot
@@ -113,6 +125,10 @@ Related definitions:
 
 ## Lumpy jumper
 (n.) A female member of the armed forces. cf. Int bint
+
+Related definitions:
+
+- None
 
 ## Lunch
 (v.) To induce errors in one’s navigation system, Eg.”you have ~ed the kit”. Out to lunch
