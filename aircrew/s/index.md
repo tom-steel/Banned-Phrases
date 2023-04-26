@@ -730,5 +730,582 @@ Related definitions:
 - 180-by-zip
 - Needle nose
 
+## Snow Drops
 
+ (n.) The RAF Police.
 
+Related definitions:
+
+- MOD Plod
+- Rozzers
+
+## Soldiers breakfast
+
+(n.) The act of urination followed by smoking cf. chemical shower
+
+Related definitions:
+
+- TBC
+
+## Something to hang your hat on
+
+(n.) A figure, point or calculation which, although inaccurate, is acceptably close to the precise solution, and takes less time to produce. Starter for ten
+
+Related definitions:
+
+- Starter for ten
+
+## SOP
+
+(abbr.) Standard Operating Procedure; the recognised usual way of doing something.
+
+## SOUP
+
+(acron.) Single Officer Unnecessary Purchase. An object that a married officer would not be able to justify expenditure on.
+
+## SP (the)
+
+(acron.) The state of play. An update of the status of the current situation.
+
+Related definitions:
+
+- Sitch
+
+## Spam
+
+(n.) One of our American cousins. Septic
+
+Related definitions:
+
+- Septic
+
+## Spammed (up)
+
+(adj.) In possession of all relevant knowledge of a subject. Up to speed
+
+Related definitions:
+
+- Up to speed
+
+## Spangly
+
+(adj.) New or advanced technology. Gucci, Swept-up
+
+Related definitions:
+
+- Gucci
+
+## Spat out
+
+(v.) To be ejected from the formation.
+
+Related definitions:
+
+- TBC
+
+## Speaking chit
+
+(n.) A mythical piece of paper that would afford you the right to speak, particularly in a debrief.
+
+Related definitions:
+
+- TBC
+
+## Spears
+
+(pl. n.) Criticisms. Spears on the outside,  Any spears for me?
+
+Related definitions:
+
+- TBC
+
+## Speed jeans
+
+(n.) The leg-borne parts of an inflating anti-g suit. Turning trousers
+
+Related definitions:
+
+- TBC
+
+## Speed of heat
+
+(adj.) Fastest achievable speed. cf. Meningy knots, Warp factor snot, Shit off a shiny shovel, , At the Speed of a thousand gazelles
+
+Related definitions:
+
+- Firewall
+- Gentlemen's
+- Gentlemen's speed
+- Get the coals on
+
+## Spin out / round
+
+(v.) To re-position oneself in the local vicinity.
+
+Related definitions:
+
+- TBC
+
+## Spinning dits
+
+(v.) Telling stories, usually of a humorous nature.cf. Pull up a sandbag
+
+Related definitions:
+
+- TBC
+
+## Splash and dash
+
+(phr.) To land somewhere and fill up with fuel and then immediately leave.
+
+Related definitions:
+
+- Shoot and scoot
+
+## Splash and dash machine
+
+(n.) An Automated Teller Machine.
+
+Related definitions:
+
+- TBC
+
+## Split team
+
+(n.) A term from initial officer training used to describe a small group of people that has separated from the main group. Eg: “Lets send a ~ to the next pub to get the beers in”
+
+Related definitions:
+
+- TBC
+
+## Spondoolies
+
+(n.) A unit of local currency. Spot, Shekel, Beer token/chit, Blat cf. Gibloons
+
+Related definitions:
+
+- Five / Ten / Twenty spot
+- Gibloons
+- Kitty
+- Shekel
+
+## Spong / spong’ed
+
+(v.) To give or be given a job to do, usually of a tiresome nature. Joe/Joed
+
+Related definitions:
+
+- Joe / Joe'ed
+
+## Spooled up
+
+1.(adj.) Ready for something.
+2.(adj.) To have recently been given the appropriate instructions or briefings. Spammed up
+
+Related definitions:
+
+- TBC
+
+## Spoon through base height
+
+(phr.) To blatantly break a rule. Originally to go below a predefined saftey height during air combat training. Graze the base height
+
+Related definitions:
+
+- Graze the base height
+
+## Sporty
+
+(adv.) Something that makes the exercise challenging. Eg: ~wind
+
+Related definitions:
+
+- TBC
+
+## Spotter
+
+(n.) Someone who knows a lot about a subject that is perceived to be boring by others who do not know as much about it.
+
+Related definitions:
+
+- TBC
+
+## Spunk Bowser
+
+(n.) A woman who is willing to offer her body as receptacle for multiple males to deposit bodily fluids.
+
+Related definitions:
+
+- TBC
+
+## Square away
+
+(v.) To adequately organise something. Shit in pile, Shit in a sock, hammer away
+
+Related definitions:
+
+- Get shit in one sock
+- Hammer away
+
+## Square root of fuck all
+
+(n.) Very little or nothing.
+
+Related definitions:
+
+- TBC
+
+## Squared away
+
+(adv.) Something adequately organized. Get shit in a pile, Get shit in a sock, Covered off
+
+Related definitions:
+
+- Get shit in a pile
+- Get shit in one sock
+- Hammer away
+
+## Squawk ident
+
+(v.) Make others aware of your location. Normally broadcast over a squadron PA system. From a function common in all aircraft transponders that highlights the aircraft position on secondary surveillance radar display. Transmit for steer
+
+Related definitions:
+
+- TBC
+
+## Squeezy trousers
+
+(n.) An anti ‘g’ suit. Speed jeans
+
+Related definitions:
+
+- TBC
+
+## Squinney
+
+(v.) To complain about anything that the speaker thinks is not important justified. Blub, Bleat
+
+Related definitions:
+
+- TBC
+
+## Squipper
+
+(n.) A survival equipment fitter.
+
+Related definitions:
+
+- TBC
+
+## Squirt
+
+(n.) To illuminate with energy, usually radar or laser.
+
+Related definitions:
+
+- TBC
+
+## SSLG
+
+(n. acron.) Suitable System of Levers & Gears. A term used by the uneducated to describe the action of a mechanical system. Also used by the even less well-educated to describe non-mechanical systems.
+
+Related definitions:
+
+- TBC
+
+## Stack
+
+1. (v.)  To depart the place of work. Cleared off
+
+2. (v.) To destroy a vehicle. Eg: “~the aircraft.”
+
+Related definitions:
+
+- Shit can
+
+## Staish
+
+(n.) The station commander. Harry
+
+Related definitions:
+
+- TBC
+
+## Stand up
+
+1. (v.) To operate independently for the 1st time. Eg “on the 1st of November 13 squadron will  ~”
+2. (order) Instruction to someone of short stature shouted to them when they are making a speech, said for comedy effect.
+
+Related definitions:
+
+- Rolled out
+
+## Standby to standby
+
+(stat.) Decrease your state of readiness for the moment as there is a delay, but be prepared to revert to a fully alert state when required to do so. cf. Chill herbs, Chill your beans
+
+Related definitions:
+
+- TBC
+
+Related definitions:
+
+- For you the war is over
+- Hang slack
+
+## Starter for ten
+
+(n.) An initial question in a brief.
+
+Related definitions:
+
+- Something to hang your hat on
+
+## Stay below radar
+
+(v.) To make oneself inconspicuous to those in authority.
+
+Related definitions:
+
+- TBC
+
+## Step
+
+(v.) To commence the walk to the aircraft after the final out brief. Eg: “We’ll get the latest weather before we ~.”
+
+Related definitions:
+
+- TBC
+
+## Step over the side
+
+(v.) To eject from an aircraft. take the martin baker option, rocket propelled deck chair, punch out, bang out.
+
+Related definitions:
+
+- Exit via the sunroof
+- Martin Baker option/letdown
+
+## Stepped on
+
+(excl.) Please repeat your last statement, as you were interrupted by someone else talking. Two transmissions at once
+
+Related definitions:
+
+- TBC
+
+## Stick
+
+(n.) The weapons employment zone of an aircraft. Eg:” He’s got a bigger ~ than us.”
+
+Related definitions:
+
+- TBC
+
+## Stick Monkey
+
+(n.) Pilot. As described by non pilots. Wings, VPSI, Seat to stick interface, Nose gunner
+Related definitions:
+
+- IFU3
+- Nose gunner
+- Seat to stick interface
+- Two winged master race
+- VPSI
+- Wings
+
+## Stick ninja
+
+(n.) A very good pilot. cf. Good skills
+
+Related definitions:
+
+- Seat to stick interface
+
+## Stone bonker
+
+(adj.) Something very obvious. Dog’s knob/bollocks cf. Nebby
+
+Related definitions:
+
+- Dog's knob/bollocks
+
+## Stoof in
+
+(v.) To crash into the ground, violently. Tent peg
+
+Related definitions:
+
+- Roll and pull
+- Screw the pooch
+
+## Stop me and buy one
+
+(phr.) You may ask me a question at any time.
+
+Related definitions:
+
+- TBC
+
+## Stop stop stop
+
+(order.) Said instead of a single stop. From an order given by the range safety officer in an air to ground weapons range requiring all to stop the activity they are currently involved in.
+
+Related definitions:
+
+- TBC
+
+## Stores
+
+(Exclamation) Expression used to inform others that some thing has been released; usually said when defecating for the benefit of others in adjacent cubicles. Cf. Pickle
+
+Related definitions:
+
+- TBC
+
+## Stuck on transmit
+
+(adj.) Someone who talks constantly and will not listen. Eg “I can never get a word in with Smith he’s ~”. From a failure of RT device.
+
+Related definitions:
+
+- TBC
+
+## Stude
+
+(n.) A person under instruction. Bloggs
+
+Related definitions:
+
+- TBC
+
+## Stuff
+
+(n.) A word used to simplify a detailed subject matter, often for dramatic effect. For example: “I was at a meeting with the PT last week where we discussed Tornado ~” In this context the word ‘stuff’ is always overemphasised, sometimes in a derogatory way. In this example the speaker is actually saying “The topics that I discussed with regards to Tornado GR4 are detailed, wide and far ranging. However, to go into them in any depth at this time would be unnecessary”.
+
+Related definitions:
+
+- TBC
+
+## Stupid o’clock
+
+(n.) Extremely early in the morning. O-dark hundred, O-four fuck’s sake, Dark o’clock, Early doors
+
+Related definitions:
+
+- O-Dark Hundred
+- O-four fuck's sake
+- O-silly hundred
+
+## Suck eggs
+
+(v.) To patronise someone by teaching them elementary knowledge. eg: “I’m not trying to teach you to ~” , egg sucking exercise
+
+Related definitions:
+
+- Egg
+
+## Suck it and see
+
+(v.) Although the prevailing conditions would seem to preclude the successful prosecution of the act under discussion, we will attempt it nonetheless.
+
+Related definitions:
+
+- TBC
+
+## Suck the hind tit
+
+(phr.) 1. Doing something that one is extremely unwilling to do. 2. To have no priority. Deep-throating the cock of death
+
+Related definitions:
+
+- Deep-throat the cock of death
+
+## Suited and booted
+
+(adj.) Wearing a full compliment of equipment, usually nuclear, biological and chemical suit.
+
+Related definitions:
+
+- TBC
+
+## Supersonic electronic flick knife
+
+(n.) A Tornado F3 aircraft. cf. Norfolk land shark, Contra-rotating death banana, bonar jet, plastic pig.
+
+Related definitions:
+
+- Fag chariot
+
+## Surge
+
+(excl.) Said for comedy effect when popping a champagne cork due to the sound being slightly similar to that of a pop surge in a jet aircraft.
+
+Related definitions:
+
+- TBC
+
+## Sweat like armorer in a spelling test
+
+(phr.) To sweat profusely. [Armour may be replaced with PTI, winch-man, rock ape etc.]
+
+Related definitions:
+
+- TBC
+
+## Sweet work
+
+(excl.) The task we have been discussing was executed extremely well.
+
+Related definitions:
+
+- TBC
+
+## Swept-up
+
+(adj.) New or advanced technology. Gucci, Spangly
+
+Related definitions:
+
+- Gucci
+
+## Swing-winged Master Race
+
+(n.) Tornado aircrew – From GAF where the best aircrew are selected to fly the Tornado. Norfolk Land Shark, Two winged master race.
+
+Related definitions:
+
+- Zipperheaded Sun God
+
+## Swings and Roundabouts
+
+(sim.) It makes little difference which option you choose, because all of courses of action are likely to yield the same result. Six of one, Six and two threes, Cummerbunds & waistcoats
+
+Related definitions:
+
+- Six and two threes
+- Six of one
+
+## Switched on
+
+(adj.) An alert and knowledgeable person.
+
+Related definitions:
+
+- TBC
+
+## Switchology
+
+(n.) A fictional educational subject created to express the familiarity with the sequence of switches that need to be made to allow the desired action to occur.
+
+Related definitions:
+
+- TBC
+
+## System wibble
+
+(n.) A disruption of the normal service that a system provides due to a technical reason that cannot be explained.
+
+Related definitions:
+
+- TBC
