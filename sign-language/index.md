@@ -29,7 +29,7 @@ Hold both hands out flat with one perpendicular to the other but still in the sa
 
 ### Related definitions:
 
--Schoolboy (error)
+- Schoolboy (error)
 
 ## Bread and butter
 
