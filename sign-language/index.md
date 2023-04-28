@@ -12,10 +12,10 @@ Clench both fists together as if grasping an ejection handle, place in between t
 
 ### Related definitions:
 
-    Foxtrot oscar
-    Make like a...
-    Retrograde
-    SID (any Major Road Name)
+- Foxtrot oscar
+- Make like a...
+- Retrograde
+- SID (any Major Road Name)
 
 ## Basics
 
@@ -27,9 +27,9 @@ Something elementary has been forgotten or neglected. Often used as a reprimand.
 ### Action: 
 Hold both hands out flat with one perpendicular to the other but still in the same plane; slap the back of the hand closest to you into the palm of the one furthest away.
 
-###Related definitions:
+### Related definitions:
 
-    Schoolboy (error)
+-Schoolboy (error)
 
 ## Bread and butter
 
@@ -43,10 +43,9 @@ Hold one hand flat and place the other perpendicular in the other plane like a k
 
 ### Related definitions:
 
-    Meat and two veg
-    Pain au beurre
-    Schoolboy (error)
-
+- Meat and two veg
+- Pain au beurre
+- Schoolboy (error
 
 ## Bzzz
 
